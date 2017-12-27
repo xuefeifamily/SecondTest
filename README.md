@@ -1,1 +1,2 @@
 # SecondTest
+print 'Hello word';
